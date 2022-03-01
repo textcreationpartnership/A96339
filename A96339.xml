@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all those that vvorship in temples made vvith hands, but more especially to them of Pauls, as a vvarning to them to repent.</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96339</idno>
+            <idno type="STC">Wing W1754</idno>
+            <idno type="STC">ESTC R186481</idno>
+            <idno type="EEBO-CITATION">45578502</idno>
+            <idno type="OCLC">ocm 45578502</idno>
+            <idno type="VID">172416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all those that vvorship in temples made vvith hands, but more especially to them of Pauls, as a vvarning to them to repent.</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed: From the Counter Prison in Wood-street, the 24. of the first month, 1663. Dorothy White.</note>
+                  <note>Lower portion of numeral "3" at bottom of page did not print.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Paul's Cathedral (London, England)</term>
+               <term>Idols and images --  Worship.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:172416:1" rendition="simple:additions"/>
+            <head>To all thoſe that VVorſhip in Temples made vvith Hands, but more eſpecially to them of PAVLS, as a VVarning to them to Repent.</head>
+            <p>THis Teſtimony have I to bear for the true and living God, againſt all the Idolatrous Worſhip that is now ſet up in this Nation of <hi>England;</hi> but more eſpecially is this Meſſage, and Warning, and Viſitation from God ſent amongſt thoſe people who often meet at <hi>Pauls,</hi> againſt whom, and againſt their Worſhip the Lord God commanded me to goe and cry with a loud Voyce, and cry, Woe againſt you Worſhipers of Images and dumb Idols, the Lord God is ariſing to confound and to throw down all the Idolatrous Worſhip that is now ſtanding, and to break the Images to pieces, and to deſtroy the Worſhipers of them, if they repent not: And woe from the Lord God of vengeance is gone forth againſt all Idolatry, and againſt all Idolatrous Worſhips and Worſhipers; God is now come to ſet up and eſtabliſh his own Way and Worſhip, which is in the Spirit, and in the Truth; and the day is now come, and is known, wherein the living and true God is worſhiped again in the Spirit, and in the Truth: Although there hath been a time of darkneſs and ignorance, wherein the Vaile of darkneſs hath been ſpread over the Nations, and in that time a Worſhip hath been pretended unto God, whilſt they have been ſcattered upon the barren Mountains as Sheep having no Shepherd; but now in this day of the breaking forth of the Glory of God, is the Shep<g ref="char:EOLhyphen"/>herd of <hi>Iſrael</hi> come to lead home again unto the fold of everlaſting reſt, all that will hear his Voyce, and obey his Call; and unto all he ſaith, Come, drink freely of the living Water, and feed upon the living Bread which cometh down from God, and feed no longer upon husks with the Swine, neither ſpend your money, nor your precious time any longer for that which is not bread, that cannot ſatisfie. Therefore come out of <hi>Babylon,</hi> which is in confuſion, for God is riſen to deſtroy her, and her builders, who are daubing with untempered Morter; God will lay her deſolate, and not one ſtone of her building ſhall ſtand upon another, but all ſhall be thrown down and ſcattered by the Whirlwind of the Lord God, whoſe day is come and broken forth, and by the Light thereof we are come to ſee the darkneſſe, and the thick darkneſs that hath been over the Nations, notwithſtanding they have been profeſſing God, and Chriſt, and a Form of Worſhip, whilſt they have been alienated and ſtrangers from God, and ſuch have Worſhiped upon the barren Mountains: <hi>But the day is come, and now is, wherein the Father will be worſhiped in Spirit and Truth, and no more at</hi> Jeruſalem, <hi>nor no more in the Mountains;</hi> but God is gathering all Nations home to within, to know Truth ſet up in their inward parts, and to eſtabliſh his own righteouſneſs in the hearts of the children of men, and all people muſt come unto the true Light of Life which God hath placed in them, which Light hath a long time ſhined in the darkneſs, but now is bro<g ref="char:EOLhyphen"/>ken forth out of obſcurity, and the day-ſtarre is ariſing, unto whoſe Light the Nations muſt be gathered; and this is the day wherein the free love of God is ſounded forth, that all may hear the Voyce and Call of the true Shepherd, that their ſouls may come to live: So that which giveth the knowledge and Glory of God in the face of his Son, is the Light, which is the Way unto eternal life; ſo Chriſt is the Way, the Truth, and the Life; and this is the foundation of God which is laid in people, the Light which Chriſt hath enlightned them withall; ſo him hath God given for a Light unto the <hi>Gentiles,</hi> and to be his ſalvation unto the ends of the earth: And this is the Leader of all that are ſaved, they muſt walk in the Light of the Lord, he leadeth into all Truth, and all that are led by the Spirit of truth, they come to worſhip God aright; and none elſe can worſhip the true God, but they who know him in the Truth, for God is Truth, and he is Light, and in him is no darkneſs at all.</p>
+            <p>So all people, try your wayes, and ſearch your hearts by the Candle of God, which is the Light of his Son, and ſee whe<g ref="char:EOLhyphen"/>ther or no you are led by the Spirit of Truth, which leadeth into all Truth; but all who are not here are out of the Way and Worſhip of God, and ſo are without, crying, Lord, Lord, and ſo come not to enter into the Kingdome of Gods Glory, wherein is Life, and Peace, and Joy in the holy ſpirit. So this is unto all you who are yet without God living in the World: I ſay, it is the Warning of God, and the Viſitation of his Love in this the day of his power and appearance, wherein he is riſen in his glory and in his brightneſs, for the gathering home of his Sons and Daughters from the ends of the Earth, that they may come to lye down in the fold of everlaſting Reſt, and to know Chriſt the true Shepherd ſet over them; for God is bringing all into one Fold, and to know the one Shepherd, which is Chriſt the living Miniſter, the Biſhop of the ſouls, the High Prieſt of God: and God is gathering people from the Shepherds of the World, and from the deceiving Prieſts, and God is bringing them unto the High Prieſt, the everlaſting Prophet, which <hi>Moſes</hi> propheſied of, ſaying, <hi>A Prophet ſhall the Lord your God raiſe up like unto me, him ſhall you hear in all things;</hi> and whoſoever will not hear this Prophet, is to be cut off from amongſt the people. So in this day God hath poured forth his Spirit according to his promiſe, and his Sons and his Daughters, his Servants and his Handmaids are come to propheſie, and ſuch are ſent to cry againſt all Idolatry, and to preach Repentance unto the people, that they may come out of their ignorance and blindneſſe, that they may come to ſee the Light of the day of God, which <hi>Abraham</hi> ſaw, who was bleſſed, who was juſt, whoſe Faith juſtified him, and was accounted unto him for righteouſneſs: So the living Faith purifies the heart, and this is the living Hope, and all that have this Hope purifie themſelves, as God is pure; ſuch are made clear by the Word, ſuch walk in the Way of Life: And the ſame Word of Faith we now con<g ref="char:EOLhyphen"/>tend for earneſtly, becauſe we know the Truth, and the Truth maketh free. So this is one tender Viſitation of God ſent amongſt you all, and unto all people whoſe eyes are yet blind. So this is to be ſent in and amongſt the people who meet at <hi>Pauls,</hi> as the Warning of God in Bowels of love, from the movings of the Holy Spirit in one who feareth the Lord.</p>
+            <closer>
+               <dateline>From the Counter Priſon in <hi>Wood-ſtreet,</hi> 
+                  <date>the 24. of the firſt Month, 1662.</date>
+               </dateline>
+               <signed>Dorothy White.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
